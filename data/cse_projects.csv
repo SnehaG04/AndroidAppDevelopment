@@ -1,0 +1,706 @@
+project_title,domain,tech_stack,batch_year,status,team_size,mentor
+Sentiment Analysis of Reviews,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,2,Dr. Kapil Kadam
+Sentiment Analysis of Reviews 2019,AI/ML,"Python, Keras, Matplotlib",2019,Completed,3,Dr. Nair
+Brain Tumor Detection using MRI,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,2,Prof. Verma
+Loan Default Prediction,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,3,Prof. Verma
+Brain Tumor Detection using MRI 2019,AI/ML,"Python, PyTorch, NumPy",2019,Completed,2,Dr.K.T.Mane
+AI Chatbot using NLP,AI/ML,"Python, Keras, Matplotlib",2019,Completed,2,Prof. Sunny Mohite
+Face Recognition Attendance System,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,2,Dr. Khan
+Loan Default Prediction 2019,AI/ML,"Python, Scikit-learn, Flask",2019,Completed,3,Prof. Verma
+Sentiment Analysis of Reviews 2019,AI/ML,"Python, BERT, HuggingFace",2019,Completed,2,Dr. Nair
+Hand Gesture Recognition,AI/ML,"Python, OpenCV, YOLO",2019,Completed,2,Prof. Sunny Mohite
+Road Sign Recognition System,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,4,Prof. Jitkar
+Resume Screening using AI,AI/ML,"Python, BERT, HuggingFace",2019,Completed,3,Dr. Khan
+Hand Gesture Recognition 2019,AI/ML,"Python, PyTorch, NumPy",2019,Completed,3,Prof. Radhika Dhanal
+Loan Default Prediction 2019,AI/ML,"Python, Keras, Matplotlib",2019,Completed,3,Dr. Kapil Kadam
+Sign Language Translator,AI/ML,"Python, BERT, HuggingFace",2019,Completed,5,Prof. Verma
+Stock Price Prediction Model,AI/ML,"Python, Keras, Matplotlib",2019,Completed,4,Dr.K.T.Mane
+Stock Price Prediction Model 2019,AI/ML,"Python, TensorFlow, Pandas",2019,Completed,3,Prof. Radhika Dhanal
+Medical Image Classification,AI/ML,"Python, OpenCV, YOLO",2019,Completed,2,Dr. Joshi
+Hospital Appointment System,Web Dev,"Next.js, Tailwind, Firebase",2019,Completed,2,Prof. Verma
+Online Food Ordering System,Web Dev,"Vue.js, Django, MySQL",2019,Completed,3,Dr. Nair
+Hospital Appointment System 2019,Web Dev,"Vue.js, Django, MySQL",2019,Completed,5,Prof. Verma
+Placement Management Portal,Web Dev,"React, Node.js, MongoDB",2019,Completed,4,Dr. Kapil Kadam
+Alumni Connect Portal,Web Dev,"React, Express, MySQL",2019,Completed,3,Prof. Radhika Dhanal
+Hospital Appointment System 2019,Web Dev,"Next.js, Tailwind, Firebase",2019,Completed,3,Dr. Pardesi
+Online Food Ordering System 2019,Web Dev,"React, Node.js, MongoDB",2019,Completed,2,Prof. Verma
+Online Voting System,Web Dev,"Vue.js, Django, MySQL",2019,Completed,2,Dr. Pardesi
+Hospital Appointment System 2019,Web Dev,"React, Express, MySQL",2019,Completed,5,Dr. Pardesi
+Online Food Ordering System 2019,Web Dev,"React, Express, MySQL",2019,Completed,2,Dr. Pardesi
+College Fest Website,Web Dev,"Angular, Spring Boot, MySQL",2019,Completed,2,Dr. Kapil Kadam
+Online Food Ordering System 2019,Web Dev,"Angular, Spring Boot, MySQL",2019,Completed,3,Dr. Joshi
+E-Commerce Platform with Recommendations,Web Dev,"React, Node.js, MongoDB",2019,Completed,4,Dr. Pardesi
+Job Portal with AI Matching,Web Dev,"React, Node.js, MongoDB",2019,Completed,3,Prof. Radhika Dhanal
+College ERP System,Web Dev,"Next.js, Tailwind, Firebase",2019,Completed,5,Prof. Verma
+Online Voting System 2019,Web Dev,"React, Express, MySQL",2019,Completed,3,Prof. Verma
+Online Examination Portal,Web Dev,"Vue.js, Django, MySQL",2019,Completed,3,Prof. Sunny Mohite
+Blood Bank Management System,Web Dev,"Angular, Spring Boot, MySQL",2019,Completed,3,Dr. Pardesi
+Smart Energy Meter,IoT,"Arduino, C++, Bluetooth",2019,Completed,3,Prof. Radhika Dhanal
+Health Monitoring Wearable,IoT,"Raspberry Pi, Python, Firebase",2019,Completed,1,Prof. Verma
+Health Monitoring Wearable 2019,IoT,"Raspberry Pi, OpenCV, Python",2019,Completed,2,Dr.K.T.Mane
+Health Monitoring Wearable 2019,IoT,"Arduino, Python, MQTT",2019,Completed,4,Prof. Radhika Dhanal
+Vulnerability Scanner Tool,Cybersecurity,"Python, Scapy, Burp Suite",2019,Completed,2,Dr. Kapil Kadam
+Digital Forensics Framework,Cybersecurity,"Python, Nmap, Kali Linux",2019,Completed,4,Prof. Sunny Mohite
+Password Strength Analyzer,Cybersecurity,"Python, Wireshark, Metasploit",2019,Completed,3,Prof. Jitkar
+Digital Forensics Framework 2019,Cybersecurity,"Python, Wireshark, Metasploit",2019,Completed,5,Prof. Radhika Dhanal
+Campus Navigation App,Mobile,"Swift, iOS, CoreData",2019,Completed,4,Prof. Radhika Dhanal
+Fitness Tracker Application,Mobile,"React Native, Node.js, MongoDB",2019,Completed,3,Prof. Jitkar
+Food Delivery Clone App,Mobile,"Android, Java, SQLite",2019,Completed,4,Prof. Radhika Dhanal
+Mental Health Support App,Mobile,"Flutter, Dart, Firebase",2019,Completed,5,Dr.K.T.Mane
+Expense Tracker Application,Mobile,"React Native, Node.js, MongoDB",2019,Completed,3,Prof. Sunny Mohite
+Smart Contract Audit Tool,Blockchain,"Solidity, Ethereum, React",2019,Completed,1,Prof. Jitkar
+Cloud Cost Optimizer Tool,Cloud,"Azure, Kubernetes, Terraform",2019,Completed,3,Prof. Verma
+Virtual Lab Simulation,AR/VR,"Unity, C#, ARCore",2019,Completed,2,Dr.K.T.Mane
+Fraud Detection System,AI/ML,"Python, Keras, Matplotlib",2020,Completed,3,Dr.K.T.Mane
+Student Performance Prediction System,AI/ML,"Python, OpenCV, YOLO",2020,Completed,5,Prof. Verma
+AI Chatbot using NLP 2020,AI/ML,"Python, TensorFlow, Pandas",2020,Ongoing,2,Dr. Kapil Kadam
+Fake News Detection using NLP,AI/ML,"Python, OpenCV, YOLO",2020,Completed,4,Prof. Jitkar
+Sentiment Analysis of Reviews 2020,AI/ML,"Python, OpenCV, YOLO",2020,Completed,3,Dr. Nair
+Fake News Detection using NLP 2020,AI/ML,"Python, BERT, HuggingFace",2020,Completed,3,Dr. Khan
+Resume Screening using AI 2020,AI/ML,"Python, PyTorch, NumPy",2020,Completed,2,Dr. Pardesi
+Spam Email Classifier,AI/ML,"Python, PyTorch, NumPy",2020,Completed,2,Dr. Khan
+Fake News Detection using NLP 2020,AI/ML,"Python, TensorFlow, Pandas",2020,Completed,5,Prof. Radhika Dhanal
+Fake News Detection using NLP 2020,AI/ML,"Python, OpenCV, YOLO",2020,Completed,2,Dr. Khan
+Fake News Detection using NLP 2020,AI/ML,"Python, PyTorch, NumPy",2020,Completed,2,Prof. Verma
+Road Sign Recognition System 2020,AI/ML,"Python, OpenCV, YOLO",2020,Ongoing,4,Prof. Verma
+Crop Disease Detection using CNN,AI/ML,"Python, Keras, Matplotlib",2020,Completed,2,Prof. Radhika Dhanal
+Real-time Object Detection System,AI/ML,"Python, Scikit-learn, Flask",2020,Completed,2,Prof. Verma
+Real-time Object Detection System 2020,AI/ML,"Python, Scikit-learn, Flask",2020,Completed,2,Dr. Khan
+Medical Image Classification 2020,AI/ML,"Python, Keras, Matplotlib",2020,Completed,2,Dr. Joshi
+Resume Screening using AI 2020,AI/ML,"Python, TensorFlow, Pandas",2020,Completed,3,Dr. Pardesi
+Student Performance Prediction System 2020,AI/ML,"Python, TensorFlow, Pandas",2020,Completed,2,Dr. Pardesi
+AI Chatbot using NLP 2020,AI/ML,"Python, Keras, Matplotlib",2020,Completed,3,Prof. Verma
+Crop Disease Detection using CNN 2020,AI/ML,"Python, TensorFlow, Pandas",2020,Completed,4,Dr. Kapil Kadam
+Customer Churn Prediction,AI/ML,"Python, TensorFlow, Pandas",2020,Completed,3,Dr. Kapil Kadam
+Brain Tumor Detection using MRI 2020,AI/ML,"Python, PyTorch, NumPy",2020,Completed,3,Dr.K.T.Mane
+Hand Gesture Recognition 2020,AI/ML,"Python, PyTorch, NumPy",2020,Completed,3,Dr. Khan
+Customer Churn Prediction 2020,AI/ML,"Python, BERT, HuggingFace",2020,Ongoing,3,Prof. Sunny Mohite
+College Fest Website 2020,Web Dev,"React, Express, MySQL",2020,Ongoing,4,Prof. Jitkar
+E-Commerce Platform with Recommendations 2020,Web Dev,"React, Express, MySQL",2020,Completed,2,Prof. Jitkar
+Online Voting System 2020,Web Dev,"React, Express, MySQL",2020,Completed,4,Prof. Radhika Dhanal
+Hospital Appointment System 2020,Web Dev,"React, Node.js, MongoDB",2020,Completed,2,Dr. Joshi
+Library Management System,Web Dev,"Vue.js, Django, MySQL",2020,Completed,4,Prof. Sunny Mohite
+E-Commerce Platform with Recommendations 2020,Web Dev,"React, Express, MySQL",2020,Completed,2,Prof. Radhika Dhanal
+Online Voting System 2020,Web Dev,"Vue.js, Django, MySQL",2020,Completed,3,Prof. Verma
+Library Management System 2020,Web Dev,"React, Node.js, MongoDB",2020,Completed,5,Dr. Kapil Kadam
+Event Management Platform,Web Dev,"Vue.js, Django, MySQL",2020,Completed,3,Dr. Khan
+Student Grievance System,Web Dev,"Vue.js, Django, MySQL",2020,Completed,5,Prof. Radhika Dhanal
+Hospital Appointment System 2020,Web Dev,"Angular, Spring Boot, MySQL",2020,Completed,1,Prof. Jitkar
+E-Commerce Platform with Recommendations 2020,Web Dev,"Angular, Spring Boot, MySQL",2020,Ongoing,3,Prof. Sunny Mohite
+Library Management System 2020,Web Dev,"Next.js, Tailwind, Firebase",2020,Completed,3,Dr. Khan
+Event Management Platform 2020,Web Dev,"Vue.js, Django, MySQL",2020,Completed,2,Dr. Pardesi
+Online Food Ordering System 2020,Web Dev,"Vue.js, Django, MySQL",2020,Completed,2,Dr. Pardesi
+Online Food Ordering System 2020,Web Dev,"React, Express, MySQL",2020,Completed,3,Prof. Jitkar
+Alumni Connect Portal 2020,Web Dev,"React, Express, MySQL",2020,Completed,2,Prof. Verma
+College Fest Website 2020,Web Dev,"React, Node.js, MongoDB",2020,Completed,2,Dr. Nair
+Event Management Platform 2020,Web Dev,"Vue.js, Django, MySQL",2020,Completed,3,Prof. Sunny Mohite
+Online Food Ordering System 2020,Web Dev,"Next.js, Tailwind, Firebase",2020,Completed,5,Dr. Kapil Kadam
+Precision Agriculture Monitoring,IoT,"Arduino, C++, Bluetooth",2020,Completed,3,Dr. Khan
+Precision Agriculture Monitoring 2020,IoT,"Raspberry Pi, Python, Firebase",2020,Completed,2,Prof. Sunny Mohite
+Smart Parking System,IoT,"Arduino, Python, MQTT",2020,Completed,5,Dr. Nair
+Precision Agriculture Monitoring 2020,IoT,"ESP32, MicroPython, MQTT",2020,Completed,3,Prof. Sunny Mohite
+Smart Energy Meter 2020,IoT,"ESP32, MicroPython, MQTT",2020,Completed,2,Dr.K.T.Mane
+Precision Agriculture Monitoring 2020,IoT,"ESP32, MicroPython, MQTT",2020,Completed,4,Prof. Verma
+Digital Forensics Framework 2020,Cybersecurity,"Python, Wireshark, Metasploit",2020,Completed,5,Prof. Radhika Dhanal
+Digital Forensics Framework 2020,Cybersecurity,"Python, Nmap, Kali Linux",2020,Completed,3,Prof. Verma
+Firewall Rule Optimizer,Cybersecurity,"Python, Snort, Wireshark",2020,Completed,3,Prof. Verma
+Steganography Tool,Cybersecurity,"Python, Snort, Wireshark",2020,Completed,3,Dr. Joshi
+Digital Forensics Framework 2020,Cybersecurity,"Python, Scapy, Burp Suite",2020,Completed,4,Dr. Pardesi
+Mental Health Support App 2020,Mobile,"React Native, Node.js, MongoDB",2020,Completed,2,Dr. Pardesi
+Fitness Tracker Application 2020,Mobile,"Android, Java, SQLite",2020,Completed,4,Prof. Radhika Dhanal
+Food Delivery Clone App 2020,Mobile,"React Native, Node.js, MongoDB",2020,Completed,3,Prof. Sunny Mohite
+Expense Tracker Application 2020,Mobile,"Swift, iOS, CoreData",2020,Completed,3,Prof. Jitkar
+Decentralized Voting System,Blockchain,"Solidity, Ethereum, React",2020,Completed,3,Dr. Nair
+Certificate Verification System,Blockchain,"Solidity, Ethereum, React",2020,Completed,4,Prof. Jitkar
+Multi-cloud Storage Manager,Cloud,"AWS, Python, Docker",2020,Ongoing,2,Prof. Jitkar
+Virtual Lab Simulation 2020,AR/VR,"Unity, Vuforia, C#",2020,Completed,3,Dr. Nair
+Stock Price Prediction Model 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,3,Dr.K.T.Mane
+Spam Email Classifier 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,4,Dr. Kapil Kadam
+Sign Language Translator 2021,AI/ML,"Python, PyTorch, NumPy",2021,Abandoned,3,Prof. Jitkar
+Fraud Detection System 2021,AI/ML,"Python, OpenCV, YOLO",2021,Completed,2,Prof. Jitkar
+Real-time Object Detection System 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,2,Dr. Khan
+Medical Image Classification 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,4,Prof. Jitkar
+Resume Screening using AI 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,2,Dr.K.T.Mane
+Customer Churn Prediction 2021,AI/ML,"Python, TensorFlow, Pandas",2021,Abandoned,2,Prof. Radhika Dhanal
+Student Performance Prediction System 2021,AI/ML,"Python, TensorFlow, Pandas",2021,Ongoing,2,Dr.K.T.Mane
+Loan Default Prediction 2021,AI/ML,"Python, PyTorch, NumPy",2021,Completed,3,Prof. Radhika Dhanal
+Fraud Detection System 2021,AI/ML,"Python, PyTorch, NumPy",2021,Completed,2,Dr. Khan
+AI Chatbot using NLP 2021,AI/ML,"Python, OpenCV, YOLO",2021,Completed,3,Prof. Radhika Dhanal
+AI Chatbot using NLP 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,1,Dr. Pardesi
+Fraud Detection System 2021,AI/ML,"Python, Keras, Matplotlib",2021,Ongoing,3,Prof. Sunny Mohite
+Fake News Detection using NLP 2021,AI/ML,"Python, OpenCV, YOLO",2021,Completed,3,Prof. Radhika Dhanal
+Road Sign Recognition System 2021,AI/ML,"Python, Keras, Matplotlib",2021,Completed,2,Dr. Nair
+Student Performance Prediction System 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,3,Prof. Radhika Dhanal
+Air Quality Prediction Model,AI/ML,"Python, Keras, Matplotlib",2021,Completed,4,Dr. Joshi
+Sentiment Analysis of Reviews 2021,AI/ML,"Python, BERT, HuggingFace",2021,Abandoned,3,Dr. Joshi
+Real-time Object Detection System 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,3,Dr. Pardesi
+Loan Default Prediction 2021,AI/ML,"Python, OpenCV, YOLO",2021,Completed,3,Dr. Nair
+Resume Screening using AI 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,4,Prof. Radhika Dhanal
+Resume Screening using AI 2021,AI/ML,"Python, BERT, HuggingFace",2021,Completed,3,Dr. Nair
+Spam Email Classifier 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,4,Dr. Kapil Kadam
+Drowsiness Detection System,AI/ML,"Python, PyTorch, NumPy",2021,Completed,2,Dr. Pardesi
+Loan Default Prediction 2021,AI/ML,"Python, Keras, Matplotlib",2021,Ongoing,3,Prof. Verma
+Medical Image Classification 2021,AI/ML,"Python, TensorFlow, Pandas",2021,Completed,3,Prof. Verma
+Stock Price Prediction Model 2021,AI/ML,"Python, Keras, Matplotlib",2021,Completed,3,Dr. Joshi
+Crop Disease Detection using CNN 2021,AI/ML,"Python, TensorFlow, Pandas",2021,Completed,3,Prof. Sunny Mohite
+Road Sign Recognition System 2021,AI/ML,"Python, Keras, Matplotlib",2021,Completed,3,Prof. Verma
+Hand Gesture Recognition 2021,AI/ML,"Python, BERT, HuggingFace",2021,Abandoned,3,Dr. Khan
+Sign Language Translator 2021,AI/ML,"Python, Scikit-learn, Flask",2021,Completed,2,Prof. Sunny Mohite
+Face Recognition Attendance System 2021,AI/ML,"Python, TensorFlow, Pandas",2021,Completed,5,Dr. Kapil Kadam
+Medical Image Classification 2021,AI/ML,"Python, PyTorch, NumPy",2021,Completed,2,Dr. Nair
+Air Quality Prediction Model 2021,AI/ML,"Python, OpenCV, YOLO",2021,Completed,2,Prof. Sunny Mohite
+Social Media Dashboard,Web Dev,"React, Express, MySQL",2021,Completed,2,Prof. Verma
+Online Examination Portal 2021,Web Dev,"Vue.js, Django, MySQL",2021,Completed,2,Dr. Pardesi
+Student Grievance System 2021,Web Dev,"React, Express, MySQL",2021,Completed,4,Prof. Radhika Dhanal
+College Fest Website 2021,Web Dev,"React, Node.js, MongoDB",2021,Completed,3,Dr. Joshi
+Library Management System 2021,Web Dev,"React, Express, MySQL",2021,Abandoned,2,Dr. Joshi
+College ERP System 2021,Web Dev,"React, Node.js, MongoDB",2021,Completed,2,Dr.K.T.Mane
+Online Examination Portal 2021,Web Dev,"React, Express, MySQL",2021,Completed,5,Prof. Radhika Dhanal
+Job Portal with AI Matching 2021,Web Dev,"React, Node.js, MongoDB",2021,Completed,3,Dr. Nair
+Online Voting System 2021,Web Dev,"Angular, Spring Boot, MySQL",2021,Completed,3,Dr. Joshi
+Blood Bank Management System 2021,Web Dev,"Next.js, Tailwind, Firebase",2021,Completed,3,Prof. Jitkar
+Social Media Dashboard 2021,Web Dev,"Angular, Spring Boot, MySQL",2021,Completed,3,Prof. Radhika Dhanal
+Online Voting System 2021,Web Dev,"React, Express, MySQL",2021,Completed,2,Prof. Radhika Dhanal
+Online Examination Portal 2021,Web Dev,"React, Express, MySQL",2021,Completed,2,Dr.K.T.Mane
+Hospital Appointment System 2021,Web Dev,"Next.js, Tailwind, Firebase",2021,Completed,3,Dr.K.T.Mane
+Job Portal with AI Matching 2021,Web Dev,"Vue.js, Django, MySQL",2021,Completed,3,Dr. Joshi
+College ERP System 2021,Web Dev,"React, Express, MySQL",2021,Ongoing,4,Dr. Nair
+Alumni Connect Portal 2021,Web Dev,"React, Express, MySQL",2021,Completed,3,Dr. Kapil Kadam
+Blood Bank Management System 2021,Web Dev,"Vue.js, Django, MySQL",2021,Completed,2,Dr. Kapil Kadam
+Online Voting System 2021,Web Dev,"Vue.js, Django, MySQL",2021,Completed,4,Dr. Pardesi
+Placement Management Portal 2021,Web Dev,"React, Node.js, MongoDB",2021,Completed,2,Prof. Jitkar
+Social Media Dashboard 2021,Web Dev,"Angular, Spring Boot, MySQL",2021,Completed,3,Dr. Nair
+E-Commerce Platform with Recommendations 2021,Web Dev,"Next.js, Tailwind, Firebase",2021,Completed,3,Dr.K.T.Mane
+Precision Agriculture Monitoring 2021,IoT,"Raspberry Pi, Python, Firebase",2021,Abandoned,4,Dr. Nair
+Vehicle Tracking System,IoT,"Arduino, Python, MQTT",2021,Abandoned,3,Dr. Pardesi
+Vehicle Tracking System 2021,IoT,"Arduino, Python, MQTT",2021,Completed,2,Prof. Verma
+Waste Management System,IoT,"Arduino, C++, Bluetooth",2021,Completed,3,Dr. Joshi
+Precision Agriculture Monitoring 2021,IoT,"ESP32, MicroPython, MQTT",2021,Completed,2,Prof. Radhika Dhanal
+Smart Parking System 2021,IoT,"Arduino, C++, Bluetooth",2021,Completed,3,Prof. Jitkar
+Smart Street Light Control,IoT,"Arduino, Python, MQTT",2021,Completed,2,Dr. Khan
+Precision Agriculture Monitoring 2021,IoT,"ESP32, MicroPython, MQTT",2021,Completed,4,Dr.K.T.Mane
+Digital Forensics Framework 2021,Cybersecurity,"Python, Snort, Wireshark",2021,Completed,3,Dr. Nair
+Digital Forensics Framework 2021,Cybersecurity,"Python, Snort, Wireshark",2021,Completed,2,Prof. Verma
+Phishing Website Detector,Cybersecurity,"Python, Scapy, Burp Suite",2021,Completed,3,Prof. Radhika Dhanal
+Network Intrusion Detection System,Cybersecurity,"Python, Nmap, Kali Linux",2021,Completed,2,Dr.K.T.Mane
+Steganography Tool 2021,Cybersecurity,"Python, Wireshark, Metasploit",2021,Completed,4,Prof. Radhika Dhanal
+Digital Forensics Framework 2021,Cybersecurity,"Python, Wireshark, Metasploit",2021,Completed,2,Dr. Pardesi
+Event Management Mobile App,Mobile,"Swift, iOS, CoreData",2021,Completed,5,Prof. Sunny Mohite
+Mental Health Support App 2021,Mobile,"React Native, Node.js, MongoDB",2021,Completed,5,Prof. Verma
+Food Delivery Clone App 2021,Mobile,"Flutter, Dart, Firebase",2021,Completed,4,Prof. Jitkar
+E-Learning Mobile Platform,Mobile,"Android, Java, SQLite",2021,Completed,2,Dr. Pardesi
+Mental Health Support App 2021,Mobile,"React Native, Node.js, MongoDB",2021,Completed,3,Dr. Khan
+Decentralized Finance App,Blockchain,"Python, Web3.py, Ethereum",2021,Completed,5,Prof. Sunny Mohite
+Certificate Verification System 2021,Blockchain,"Solidity, Ethereum, React",2021,Completed,2,Prof. Jitkar
+Decentralized Voting System 2021,Blockchain,"Solidity, Hardhat, Web3.js",2021,Completed,3,Prof. Jitkar
+Smart Contract Audit Tool 2021,Blockchain,"Python, Web3.py, Ethereum",2021,Completed,3,Dr. Kapil Kadam
+Multi-cloud Storage Manager 2021,Cloud,"AWS, Python, Docker",2021,Completed,5,Dr. Khan
+Serverless REST API System,Cloud,"Azure, Kubernetes, Terraform",2021,Completed,5,Dr.K.T.Mane
+VR Classroom Simulator,AR/VR,"Unreal Engine, C++, VR",2021,Completed,5,Prof. Radhika Dhanal
+Drowsiness Detection System 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,3,Prof. Radhika Dhanal
+Face Recognition Attendance System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Ongoing,3,Dr. Khan
+Drowsiness Detection System 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Dr. Pardesi
+Stock Price Prediction Model 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,5,Prof. Radhika Dhanal
+Sign Language Translator 2022,AI/ML,"Python, PyTorch, NumPy",2022,Completed,5,Dr.K.T.Mane
+Face Recognition Attendance System 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,3,Dr. Kapil Kadam
+Stock Price Prediction Model 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,3,Dr. Kapil Kadam
+AI Chatbot using NLP 2022,AI/ML,"Python, PyTorch, NumPy",2022,Completed,4,Dr. Nair
+Stock Price Prediction Model 2022,AI/ML,"Python, BERT, HuggingFace",2022,Ongoing,2,Dr. Joshi
+Resume Screening using AI 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,1,Dr. Joshi
+Road Sign Recognition System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,2,Dr. Khan
+Fraud Detection System 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,3,Dr. Pardesi
+Sign Language Translator 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,3,Dr. Joshi
+Sentiment Analysis of Reviews 2022,AI/ML,"Python, PyTorch, NumPy",2022,Completed,3,Dr. Pardesi
+Road Sign Recognition System 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Abandoned,3,Dr. Pardesi
+Crop Disease Detection using CNN 2022,AI/ML,"Python, OpenCV, YOLO",2022,Ongoing,4,Dr.K.T.Mane
+Loan Default Prediction 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,5,Dr. Pardesi
+Stock Price Prediction Model 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Prof. Sunny Mohite
+Loan Default Prediction 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,3,Dr. Kapil Kadam
+Sentiment Analysis of Reviews 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,2,Dr. Joshi
+Student Performance Prediction System 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Dr. Pardesi
+Face Recognition Attendance System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,2,Prof. Verma
+Hand Gesture Recognition 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Dr. Kapil Kadam
+Resume Screening using AI 2022,AI/ML,"Python, BERT, HuggingFace",2022,Abandoned,2,Dr. Khan
+Sentiment Analysis of Reviews 2022,AI/ML,"Python, BERT, HuggingFace",2022,Abandoned,2,Prof. Sunny Mohite
+Spam Email Classifier 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,4,Dr.K.T.Mane
+Resume Screening using AI 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,3,Dr. Pardesi
+Fraud Detection System 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,5,Prof. Radhika Dhanal
+Stock Price Prediction Model 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,4,Prof. Verma
+Face Recognition Attendance System 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Dr. Joshi
+Road Sign Recognition System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,2,Dr.K.T.Mane
+Road Sign Recognition System 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,2,Prof. Verma
+Real-time Object Detection System 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,3,Prof. Verma
+Brain Tumor Detection using MRI 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,2,Prof. Jitkar
+Sentiment Analysis of Reviews 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,5,Dr. Pardesi
+Student Performance Prediction System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,3,Prof. Sunny Mohite
+Hand Gesture Recognition 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Abandoned,3,Dr. Khan
+Student Performance Prediction System 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,5,Dr. Joshi
+Fake News Detection using NLP 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,3,Dr.K.T.Mane
+Student Performance Prediction System 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,2,Dr. Nair
+Medical Image Classification 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,3,Dr. Nair
+Medical Image Classification 2022,AI/ML,"Python, PyTorch, NumPy",2022,Completed,2,Dr. Nair
+Crop Disease Detection using CNN 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Ongoing,2,Dr. Kapil Kadam
+Customer Churn Prediction 2022,AI/ML,"Python, Scikit-learn, Flask",2022,Completed,2,Dr.K.T.Mane
+Real-time Object Detection System 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,4,Dr. Nair
+Face Recognition Attendance System 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,2,Prof. Jitkar
+Air Quality Prediction Model 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,3,Dr. Khan
+Air Quality Prediction Model 2022,AI/ML,"Python, OpenCV, YOLO",2022,Completed,3,Dr. Nair
+Student Performance Prediction System 2022,AI/ML,"Python, Keras, Matplotlib",2022,Completed,4,Prof. Verma
+Road Sign Recognition System 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,1,Dr. Joshi
+Spam Email Classifier 2022,AI/ML,"Python, BERT, HuggingFace",2022,Completed,3,Dr. Joshi
+Fake News Detection using NLP 2022,AI/ML,"Python, TensorFlow, Pandas",2022,Completed,2,Dr. Kapil Kadam
+Social Media Dashboard 2022,Web Dev,"Angular, Spring Boot, MySQL",2022,Completed,3,Dr. Khan
+Hospital Appointment System 2022,Web Dev,"Angular, Spring Boot, MySQL",2022,Completed,3,Dr. Nair
+Hospital Appointment System 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,2,Prof. Verma
+Student Grievance System 2022,Web Dev,"React, Express, MySQL",2022,Completed,4,Prof. Jitkar
+Library Management System 2022,Web Dev,"Next.js, Tailwind, Firebase",2022,Completed,3,Dr. Khan
+Hospital Appointment System 2022,Web Dev,"Vue.js, Django, MySQL",2022,Completed,3,Dr. Kapil Kadam
+Alumni Connect Portal 2022,Web Dev,"Next.js, Tailwind, Firebase",2022,Completed,4,Prof. Radhika Dhanal
+Hospital Appointment System 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,3,Dr. Kapil Kadam
+Online Food Ordering System 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,3,Dr. Khan
+Alumni Connect Portal 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,4,Prof. Jitkar
+College Fest Website 2022,Web Dev,"React, Node.js, MongoDB",2022,Abandoned,3,Dr. Khan
+College ERP System 2022,Web Dev,"Angular, Spring Boot, MySQL",2022,Completed,2,Dr. Joshi
+Job Portal with AI Matching 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,3,Prof. Radhika Dhanal
+Online Voting System 2022,Web Dev,"Vue.js, Django, MySQL",2022,Completed,4,Prof. Verma
+Online Voting System 2022,Web Dev,"Angular, Spring Boot, MySQL",2022,Completed,3,Dr.K.T.Mane
+Event Management Platform 2022,Web Dev,"Vue.js, Django, MySQL",2022,Completed,2,Dr. Pardesi
+Blood Bank Management System 2022,Web Dev,"Vue.js, Django, MySQL",2022,Completed,2,Dr. Kapil Kadam
+Event Management Platform 2022,Web Dev,"Next.js, Tailwind, Firebase",2022,Completed,3,Dr.K.T.Mane
+College ERP System 2022,Web Dev,"Angular, Spring Boot, MySQL",2022,Completed,3,Dr. Khan
+Online Examination Portal 2022,Web Dev,"Vue.js, Django, MySQL",2022,Completed,2,Dr. Nair
+Event Management Platform 2022,Web Dev,"React, Node.js, MongoDB",2022,Ongoing,2,Dr. Nair
+E-Commerce Platform with Recommendations 2022,Web Dev,"React, Node.js, MongoDB",2022,Completed,3,Dr. Joshi
+Vehicle Tracking System 2022,IoT,"ESP32, MicroPython, MQTT",2022,Completed,2,Prof. Verma
+Precision Agriculture Monitoring 2022,IoT,"Arduino, C++, Bluetooth",2022,Completed,2,Dr. Nair
+Waste Management System 2022,IoT,"Raspberry Pi, OpenCV, Python",2022,Completed,1,Prof. Jitkar
+Vehicle Tracking System 2022,IoT,"Arduino, Python, MQTT",2022,Completed,2,Prof. Sunny Mohite
+Smart Parking System 2022,IoT,"Arduino, C++, Bluetooth",2022,Completed,2,Dr. Joshi
+Smart Energy Meter 2022,IoT,"Raspberry Pi, Python, Firebase",2022,Completed,3,Prof. Sunny Mohite
+Smart Street Light Control 2022,IoT,"Raspberry Pi, OpenCV, Python",2022,Completed,4,Prof. Radhika Dhanal
+Smart Energy Meter 2022,IoT,"Arduino, Python, MQTT",2022,Completed,3,Prof. Radhika Dhanal
+Industrial Equipment Monitor,IoT,"Raspberry Pi, OpenCV, Python",2022,Completed,3,Prof. Jitkar
+Smart Irrigation System,IoT,"Arduino, Python, MQTT",2022,Completed,5,Dr. Kapil Kadam
+Vehicle Tracking System 2022,IoT,"ESP32, MicroPython, MQTT",2022,Completed,5,Prof. Radhika Dhanal
+Smart Energy Meter 2022,IoT,"Arduino, Python, MQTT",2022,Completed,3,Prof. Verma
+Precision Agriculture Monitoring 2022,IoT,"ESP32, MicroPython, MQTT",2022,Ongoing,3,Prof. Sunny Mohite
+Industrial Equipment Monitor 2022,IoT,"Raspberry Pi, Python, Firebase",2022,Completed,3,Prof. Verma
+Vulnerability Scanner Tool 2022,Cybersecurity,"Python, Scapy, Burp Suite",2022,Completed,5,Dr. Kapil Kadam
+Vulnerability Scanner Tool 2022,Cybersecurity,"Python, Wireshark, Metasploit",2022,Completed,2,Dr. Nair
+Phishing Website Detector 2022,Cybersecurity,"Python, Wireshark, Metasploit",2022,Completed,4,Dr. Joshi
+Digital Forensics Framework 2022,Cybersecurity,"Python, Snort, Wireshark",2022,Completed,4,Dr. Nair
+Firewall Rule Optimizer 2022,Cybersecurity,"Python, Scapy, Burp Suite",2022,Completed,2,Dr. Joshi
+Malware Analysis System,Cybersecurity,"Python, Scapy, Burp Suite",2022,Completed,3,Prof. Radhika Dhanal
+Malware Analysis System 2022,Cybersecurity,"Python, Snort, Wireshark",2022,Completed,2,Dr. Pardesi
+Password Strength Analyzer 2022,Cybersecurity,"Python, Wireshark, Metasploit",2022,Completed,3,Dr. Joshi
+Network Intrusion Detection System 2022,Cybersecurity,"Python, Snort, Wireshark",2022,Ongoing,3,Prof. Sunny Mohite
+Firewall Rule Optimizer 2022,Cybersecurity,"Python, Snort, Wireshark",2022,Completed,5,Dr. Joshi
+Expense Tracker Application 2022,Mobile,"Android, Java, SQLite",2022,Abandoned,2,Dr. Kapil Kadam
+Campus Navigation App 2022,Mobile,"React Native, Node.js, MongoDB",2022,Completed,5,Prof. Verma
+Food Delivery Clone App 2022,Mobile,"Android, Java, SQLite",2022,Completed,2,Prof. Jitkar
+E-Learning Mobile Platform 2022,Mobile,"Flutter, Dart, Firebase",2022,Completed,3,Prof. Radhika Dhanal
+E-Learning Mobile Platform 2022,Mobile,"Flutter, Dart, Firebase",2022,Completed,3,Dr. Pardesi
+Food Delivery Clone App 2022,Mobile,"Android, Java, SQLite",2022,Completed,3,Dr. Khan
+Event Management Mobile App 2022,Mobile,"Swift, iOS, CoreData",2022,Completed,3,Prof. Radhika Dhanal
+Supply Chain on Blockchain,Blockchain,"Python, Web3.py, Ethereum",2022,Completed,4,Dr. Kapil Kadam
+Certificate Verification System 2022,Blockchain,"Python, Web3.py, Ethereum",2022,Completed,3,Prof. Verma
+Decentralized Voting System 2022,Blockchain,"Python, Web3.py, Ethereum",2022,Completed,3,Dr.K.T.Mane
+Supply Chain on Blockchain 2022,Blockchain,"Solidity, Hardhat, Web3.js",2022,Completed,2,Dr. Joshi
+NFT Marketplace Platform,Blockchain,"Solidity, Ethereum, React",2022,Abandoned,2,Dr. Pardesi
+Serverless REST API System 2022,Cloud,"GCP, Python, Pub/Sub",2022,Completed,4,Prof. Verma
+Serverless REST API System 2022,Cloud,"GCP, Python, Pub/Sub",2022,Completed,4,Dr. Kapil Kadam
+Microservices Architecture Demo,Cloud,"Azure, Kubernetes, Terraform",2022,Completed,2,Dr. Nair
+VR Classroom Simulator 2022,AR/VR,"Unity, Vuforia, C#",2022,Completed,3,Prof. Sunny Mohite
+Virtual Lab Simulation 2022,AR/VR,"Unity, Vuforia, C#",2022,Completed,3,Dr. Joshi
+Stock Price Prediction Model 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,5,Dr. Joshi
+Medical Image Classification 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Dr. Joshi
+Sign Language Translator 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Prof. Jitkar
+AI Chatbot using NLP 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,2,Dr. Pardesi
+Student Performance Prediction System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Prof. Radhika Dhanal
+Air Quality Prediction Model 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,4,Dr. Pardesi
+Sign Language Translator 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,3,Prof. Sunny Mohite
+Sign Language Translator 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Ongoing,3,Prof. Jitkar
+Air Quality Prediction Model 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,5,Dr. Khan
+Stock Price Prediction Model 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Dr. Khan
+Real-time Object Detection System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,5,Dr. Joshi
+Real-time Object Detection System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Prof. Radhika Dhanal
+Crop Disease Detection using CNN 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,2,Dr. Nair
+Air Quality Prediction Model 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,2,Dr. Pardesi
+Sentiment Analysis of Reviews 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,3,Dr. Nair
+Sign Language Translator 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,5,Dr. Nair
+Customer Churn Prediction 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,3,Dr. Kapil Kadam
+Road Sign Recognition System 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,3,Dr. Nair
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,2,Dr. Khan
+Fake News Detection using NLP 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,4,Prof. Verma
+Customer Churn Prediction 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,3,Prof. Jitkar
+Hand Gesture Recognition 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Prof. Radhika Dhanal
+Hand Gesture Recognition 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Dr. Nair
+Face Recognition Attendance System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Dr. Kapil Kadam
+Sign Language Translator 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,2,Dr. Kapil Kadam
+Fake News Detection using NLP 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Dr. Pardesi
+Medical Image Classification 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,4,Dr. Khan
+Road Sign Recognition System 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,4,Dr. Joshi
+Resume Screening using AI 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Dr. Khan
+Student Performance Prediction System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,2,Dr. Khan
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,4,Prof. Jitkar
+Face Recognition Attendance System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Prof. Verma
+Resume Screening using AI 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Dr. Nair
+AI Chatbot using NLP 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,2,Dr. Khan
+Road Sign Recognition System 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Dr. Kapil Kadam
+Sign Language Translator 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Dr. Khan
+Loan Default Prediction 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,5,Dr.K.T.Mane
+Fake News Detection using NLP 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Dr. Kapil Kadam
+Crop Disease Detection using CNN 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Dr. Joshi
+Student Performance Prediction System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,4,Dr. Khan
+Hand Gesture Recognition 2023,AI/ML,"Python, BERT, HuggingFace",2023,Ongoing,1,Dr. Kapil Kadam
+Sign Language Translator 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,4,Dr. Nair
+Real-time Object Detection System 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,2,Dr. Pardesi
+Stock Price Prediction Model 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Prof. Verma
+Spam Email Classifier 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,4,Dr. Joshi
+Medical Image Classification 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,5,Dr. Joshi
+Medical Image Classification 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Dr. Kapil Kadam
+Sign Language Translator 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,5,Dr. Khan
+Hand Gesture Recognition 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Dr. Pardesi
+AI Chatbot using NLP 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,3,Dr. Kapil Kadam
+Hand Gesture Recognition 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,5,Dr. Kapil Kadam
+Stock Price Prediction Model 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,3,Dr. Khan
+Sign Language Translator 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,4,Prof. Radhika Dhanal
+Road Sign Recognition System 2023,AI/ML,"Python, BERT, HuggingFace",2023,Abandoned,3,Prof. Verma
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,2,Dr. Khan
+Fake News Detection using NLP 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,3,Dr. Kapil Kadam
+Customer Churn Prediction 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,4,Dr. Kapil Kadam
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, OpenCV, YOLO",2023,Ongoing,2,Prof. Radhika Dhanal
+Air Quality Prediction Model 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,2,Prof. Sunny Mohite
+Hand Gesture Recognition 2023,AI/ML,"Python, OpenCV, YOLO",2023,Ongoing,4,Dr. Pardesi
+Medical Image Classification 2023,AI/ML,"Python, Keras, Matplotlib",2023,Ongoing,2,Dr. Pardesi
+Loan Default Prediction 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,3,Dr. Nair
+Fraud Detection System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Dr. Nair
+Face Recognition Attendance System 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,4,Prof. Radhika Dhanal
+Student Performance Prediction System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,2,Prof. Sunny Mohite
+Fraud Detection System 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,1,Prof. Verma
+Road Sign Recognition System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Ongoing,3,Prof. Jitkar
+Road Sign Recognition System 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,2,Dr. Joshi
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,2,Dr. Kapil Kadam
+Face Recognition Attendance System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,5,Dr. Khan
+Spam Email Classifier 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Prof. Radhika Dhanal
+Face Recognition Attendance System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,2,Prof. Sunny Mohite
+Real-time Object Detection System 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,5,Dr. Nair
+Brain Tumor Detection using MRI 2023,AI/ML,"Python, PyTorch, NumPy",2023,Abandoned,5,Dr. Khan
+Fraud Detection System 2023,AI/ML,"Python, Keras, Matplotlib",2023,Completed,4,Dr. Joshi
+Air Quality Prediction Model 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,2,Dr.K.T.Mane
+Fake News Detection using NLP 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,5,Prof. Sunny Mohite
+Fraud Detection System 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,2,Dr. Nair
+Drowsiness Detection System 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,4,Prof. Jitkar
+Real-time Object Detection System 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,4,Dr. Khan
+Student Performance Prediction System 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,3,Dr. Khan
+Customer Churn Prediction 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,3,Prof. Verma
+Resume Screening using AI 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,2,Prof. Radhika Dhanal
+Spam Email Classifier 2023,AI/ML,"Python, Scikit-learn, Flask",2023,Completed,2,Dr. Khan
+Real-time Object Detection System 2023,AI/ML,"Python, PyTorch, NumPy",2023,Completed,3,Dr.K.T.Mane
+Student Performance Prediction System 2023,AI/ML,"Python, TensorFlow, Pandas",2023,Completed,2,Dr. Joshi
+Air Quality Prediction Model 2023,AI/ML,"Python, BERT, HuggingFace",2023,Completed,4,Dr. Kapil Kadam
+Face Recognition Attendance System 2023,AI/ML,"Python, OpenCV, YOLO",2023,Completed,3,Dr. Nair
+Student Grievance System 2023,Web Dev,"Vue.js, Django, MySQL",2023,Completed,3,Prof. Verma
+Online Food Ordering System 2023,Web Dev,"Next.js, Tailwind, Firebase",2023,Completed,2,Dr.K.T.Mane
+Library Management System 2023,Web Dev,"Vue.js, Django, MySQL",2023,Completed,5,Dr. Nair
+Social Media Dashboard 2023,Web Dev,"React, Node.js, MongoDB",2023,Completed,2,Dr. Nair
+Event Management Platform 2023,Web Dev,"React, Express, MySQL",2023,Completed,3,Dr. Kapil Kadam
+Online Food Ordering System 2023,Web Dev,"Angular, Spring Boot, MySQL",2023,Completed,3,Prof. Sunny Mohite
+E-Commerce Platform with Recommendations 2023,Web Dev,"Angular, Spring Boot, MySQL",2023,Ongoing,2,Dr.K.T.Mane
+Placement Management Portal 2023,Web Dev,"Vue.js, Django, MySQL",2023,Completed,3,Prof. Sunny Mohite
+Hospital Appointment System 2023,Web Dev,"Angular, Spring Boot, MySQL",2023,Completed,5,Dr.K.T.Mane
+Student Grievance System 2023,Web Dev,"React, Express, MySQL",2023,Completed,3,Dr. Joshi
+Online Food Ordering System 2023,Web Dev,"Next.js, Tailwind, Firebase",2023,Completed,2,Prof. Verma
+Library Management System 2023,Web Dev,"Angular, Spring Boot, MySQL",2023,Completed,4,Dr. Pardesi
+Event Management Platform 2023,Web Dev,"Next.js, Tailwind, Firebase",2023,Completed,2,Prof. Verma
+Social Media Dashboard 2023,Web Dev,"React, Express, MySQL",2023,Ongoing,5,Dr. Pardesi
+Student Grievance System 2023,Web Dev,"React, Express, MySQL",2023,Completed,3,Dr. Joshi
+Library Management System 2023,Web Dev,"Angular, Spring Boot, MySQL",2023,Ongoing,4,Dr. Pardesi
+Social Media Dashboard 2023,Web Dev,"React, Node.js, MongoDB",2023,Completed,3,Prof. Jitkar
+College Fest Website 2023,Web Dev,"Vue.js, Django, MySQL",2023,Ongoing,4,Dr. Pardesi
+E-Commerce Platform with Recommendations 2023,Web Dev,"Vue.js, Django, MySQL",2023,Ongoing,2,Dr. Joshi
+Alumni Connect Portal 2023,Web Dev,"Vue.js, Django, MySQL",2023,Completed,2,Prof. Verma
+Smart Irrigation System 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,2,Dr. Nair
+Vehicle Tracking System 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,3,Prof. Verma
+Health Monitoring Wearable 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,3,Dr. Joshi
+Precision Agriculture Monitoring 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,3,Dr. Kapil Kadam
+Smart Energy Meter 2023,IoT,"ESP32, MicroPython, MQTT",2023,Completed,2,Dr. Pardesi
+Industrial Equipment Monitor 2023,IoT,"Arduino, C++, Bluetooth",2023,Completed,5,Prof. Radhika Dhanal
+Vehicle Tracking System 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,3,Dr.K.T.Mane
+Smart Parking System 2023,IoT,"ESP32, MicroPython, MQTT",2023,Completed,2,Dr.K.T.Mane
+Smart Energy Meter 2023,IoT,"ESP32, MicroPython, MQTT",2023,Completed,3,Dr. Pardesi
+Smart Home Automation System,IoT,"Arduino, Python, MQTT",2023,Completed,3,Dr. Khan
+Smart Irrigation System 2023,IoT,"ESP32, MicroPython, MQTT",2023,Abandoned,3,Dr. Joshi
+Smart Parking System 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,2,Prof. Radhika Dhanal
+Industrial Equipment Monitor 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,3,Dr. Kapil Kadam
+Smart Home Automation System 2023,IoT,"Arduino, C++, Bluetooth",2023,Completed,3,Prof. Sunny Mohite
+Smart Parking System 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,4,Prof. Jitkar
+Smart Street Light Control 2023,IoT,"Arduino, C++, Bluetooth",2023,Completed,3,Dr. Kapil Kadam
+Smart Parking System 2023,IoT,"ESP32, MicroPython, MQTT",2023,Completed,2,Dr. Pardesi
+Smart Energy Meter 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,2,Dr. Khan
+Smart Irrigation System 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,1,Dr. Khan
+Health Monitoring Wearable 2023,IoT,"Arduino, Python, MQTT",2023,Completed,3,Dr. Kapil Kadam
+Smart Energy Meter 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Ongoing,4,Dr. Pardesi
+Precision Agriculture Monitoring 2023,IoT,"Arduino, C++, Bluetooth",2023,Completed,2,Dr. Kapil Kadam
+Waste Management System 2023,IoT,"Raspberry Pi, Python, Firebase",2023,Completed,5,Dr. Khan
+Smart Energy Meter 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Ongoing,4,Prof. Sunny Mohite
+Health Monitoring Wearable 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,2,Dr. Joshi
+Smart Street Light Control 2023,IoT,"Arduino, C++, Bluetooth",2023,Completed,3,Dr.K.T.Mane
+Smart Street Light Control 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,3,Dr. Kapil Kadam
+Industrial Equipment Monitor 2023,IoT,"Raspberry Pi, OpenCV, Python",2023,Completed,3,Dr. Nair
+Digital Forensics Framework 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Ongoing,3,Dr.K.T.Mane
+Digital Forensics Framework 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,3,Dr.K.T.Mane
+Digital Forensics Framework 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,3,Dr.K.T.Mane
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Completed,2,Prof. Radhika Dhanal
+Network Intrusion Detection System 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Abandoned,3,Dr. Pardesi
+Steganography Tool 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,4,Prof. Jitkar
+Firewall Rule Optimizer 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,5,Prof. Jitkar
+Steganography Tool 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Completed,3,Prof. Verma
+Phishing Website Detector 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,5,Prof. Jitkar
+Phishing Website Detector 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,4,Dr. Pardesi
+Digital Forensics Framework 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,4,Prof. Sunny Mohite
+Digital Forensics Framework 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,2,Prof. Radhika Dhanal
+Network Intrusion Detection System 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,5,Dr.K.T.Mane
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,3,Dr. Joshi
+Network Intrusion Detection System 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,3,Prof. Sunny Mohite
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Completed,5,Prof. Sunny Mohite
+Firewall Rule Optimizer 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,4,Prof. Verma
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,2,Dr. Nair
+Phishing Website Detector 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,1,Dr. Khan
+Steganography Tool 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,3,Dr. Pardesi
+Steganography Tool 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,3,Prof. Sunny Mohite
+Malware Analysis System 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,5,Prof. Verma
+Steganography Tool 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,2,Prof. Sunny Mohite
+Malware Analysis System 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,2,Dr. Joshi
+Firewall Rule Optimizer 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Completed,4,Dr.K.T.Mane
+Malware Analysis System 2023,Cybersecurity,"Python, Snort, Wireshark",2023,Completed,3,Prof. Radhika Dhanal
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,4,Dr. Khan
+Malware Analysis System 2023,Cybersecurity,"Python, Wireshark, Metasploit",2023,Completed,2,Prof. Radhika Dhanal
+Digital Forensics Framework 2023,Cybersecurity,"Python, Nmap, Kali Linux",2023,Completed,3,Prof. Jitkar
+Vulnerability Scanner Tool 2023,Cybersecurity,"Python, Scapy, Burp Suite",2023,Completed,3,Prof. Verma
+E-Learning Mobile Platform 2023,Mobile,"Android, Java, SQLite",2023,Completed,3,Dr. Joshi
+Mental Health Support App 2023,Mobile,"Flutter, Dart, Firebase",2023,Completed,3,Dr. Khan
+Fitness Tracker Application 2023,Mobile,"Android, Java, SQLite",2023,Completed,1,Prof. Sunny Mohite
+Food Delivery Clone App 2023,Mobile,"Flutter, Dart, Firebase",2023,Completed,5,Dr. Nair
+Ride Sharing Application,Mobile,"Android, Java, SQLite",2023,Completed,2,Prof. Jitkar
+Fitness Tracker Application 2023,Mobile,"Swift, iOS, CoreData",2023,Completed,5,Dr. Khan
+Event Management Mobile App 2023,Mobile,"Swift, iOS, CoreData",2023,Abandoned,3,Dr. Joshi
+Mental Health Support App 2023,Mobile,"React Native, Node.js, MongoDB",2023,Completed,3,Dr. Kapil Kadam
+Mental Health Support App 2023,Mobile,"React Native, Node.js, MongoDB",2023,Ongoing,3,Dr.K.T.Mane
+Decentralized Finance App 2023,Blockchain,"Solidity, Ethereum, React",2023,Completed,2,Dr.K.T.Mane
+Decentralized Voting System 2023,Blockchain,"Solidity, Hardhat, Web3.js",2023,Completed,3,Prof. Radhika Dhanal
+Certificate Verification System 2023,Blockchain,"Solidity, Ethereum, React",2023,Completed,3,Dr. Khan
+Decentralized Voting System 2023,Blockchain,"Python, Web3.py, Ethereum",2023,Completed,5,Dr. Joshi
+Certificate Verification System 2023,Blockchain,"Solidity, Hardhat, Web3.js",2023,Completed,3,Prof. Jitkar
+Serverless REST API System 2023,Cloud,"AWS, Python, Docker",2023,Completed,2,Dr. Pardesi
+Serverless REST API System 2023,Cloud,"GCP, Python, Pub/Sub",2023,Completed,3,Dr. Kapil Kadam
+Serverless REST API System 2023,Cloud,"AWS, Python, Docker",2023,Completed,2,Dr. Nair
+Microservices Architecture Demo 2023,Cloud,"Azure, Kubernetes, Terraform",2023,Completed,2,Prof. Jitkar
+AR Campus Tour Application,AR/VR,"Unreal Engine, C++, VR",2023,Ongoing,3,Prof. Sunny Mohite
+VR Classroom Simulator 2023,AR/VR,"Unreal Engine, C++, VR",2023,Completed,4,Dr.K.T.Mane
+AR Campus Tour Application 2023,AR/VR,"Unreal Engine, C++, VR",2023,Completed,3,Dr.K.T.Mane
+Crop Disease Detection using CNN 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Prof. Jitkar
+Face Recognition Attendance System 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,5,Prof. Verma
+Student Performance Prediction System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,4,Dr. Nair
+Drowsiness Detection System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Dr. Pardesi
+Customer Churn Prediction 2024,AI/ML,"Python, OpenCV, YOLO",2024,Ongoing,2,Dr. Khan
+Crop Disease Detection using CNN 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,4,Prof. Jitkar
+Fake News Detection using NLP 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Prof. Jitkar
+Customer Churn Prediction 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Prof. Radhika Dhanal
+Air Quality Prediction Model 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,2,Prof. Jitkar
+Stock Price Prediction Model 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,4,Dr. Nair
+Spam Email Classifier 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Dr. Joshi
+Drowsiness Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,5,Prof. Jitkar
+AI Chatbot using NLP 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Dr. Nair
+Road Sign Recognition System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Ongoing,2,Dr. Kapil Kadam
+Spam Email Classifier 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,2,Prof. Jitkar
+Face Recognition Attendance System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,1,Dr. Pardesi
+Sign Language Translator 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Abandoned,2,Prof. Radhika Dhanal
+AI Chatbot using NLP 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Jitkar
+Sentiment Analysis of Reviews 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,3,Dr. Nair
+Loan Default Prediction 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Abandoned,1,Prof. Jitkar
+Spam Email Classifier 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,3,Prof. Sunny Mohite
+Fraud Detection System 2024,AI/ML,"Python, OpenCV, YOLO",2024,Completed,3,Dr. Kapil Kadam
+Resume Screening using AI 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Dr. Kapil Kadam
+Brain Tumor Detection using MRI 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Prof. Radhika Dhanal
+Hand Gesture Recognition 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Abandoned,3,Dr. Joshi
+Loan Default Prediction 2024,AI/ML,"Python, OpenCV, YOLO",2024,Completed,2,Dr. Pardesi
+Crop Disease Detection using CNN 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Dr. Khan
+Sign Language Translator 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,4,Dr. Nair
+Real-time Object Detection System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,5,Prof. Sunny Mohite
+Drowsiness Detection System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Dr. Khan
+Road Sign Recognition System 2024,AI/ML,"Python, Keras, Matplotlib",2024,Ongoing,3,Dr. Nair
+Stock Price Prediction Model 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,4,Prof. Jitkar
+Hand Gesture Recognition 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,2,Prof. Verma
+AI Chatbot using NLP 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,1,Dr. Joshi
+Medical Image Classification 2024,AI/ML,"Python, BERT, HuggingFace",2024,Abandoned,4,Prof. Radhika Dhanal
+Brain Tumor Detection using MRI 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Prof. Sunny Mohite
+Resume Screening using AI 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Prof. Jitkar
+Fake News Detection using NLP 2024,AI/ML,"Python, BERT, HuggingFace",2024,Abandoned,3,Prof. Jitkar
+Customer Churn Prediction 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,4,Prof. Jitkar
+Customer Churn Prediction 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,3,Prof. Verma
+Loan Default Prediction 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,2,Prof. Sunny Mohite
+Hand Gesture Recognition 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,1,Prof. Jitkar
+Face Recognition Attendance System 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,2,Prof. Sunny Mohite
+Air Quality Prediction Model 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Dr. Nair
+Stock Price Prediction Model 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Dr. Nair
+Air Quality Prediction Model 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,1,Prof. Radhika Dhanal
+Road Sign Recognition System 2024,AI/ML,"Python, BERT, HuggingFace",2024,Abandoned,2,Dr. Kapil Kadam
+Hand Gesture Recognition 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,4,Prof. Verma
+Drowsiness Detection System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Dr. Joshi
+Face Recognition Attendance System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,4,Prof. Radhika Dhanal
+Crop Disease Detection using CNN 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Dr. Kapil Kadam
+Stock Price Prediction Model 2024,AI/ML,"Python, OpenCV, YOLO",2024,Completed,2,Prof. Verma
+Brain Tumor Detection using MRI 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Dr. Kapil Kadam
+AI Chatbot using NLP 2024,AI/ML,"Python, Keras, Matplotlib",2024,Ongoing,3,Dr. Nair
+Medical Image Classification 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Sunny Mohite
+Medical Image Classification 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Abandoned,4,Prof. Radhika Dhanal
+Fraud Detection System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,3,Dr. Khan
+Face Recognition Attendance System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,2,Dr. Joshi
+Air Quality Prediction Model 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Prof. Jitkar
+Fraud Detection System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,4,Dr. Nair
+AI Chatbot using NLP 2024,AI/ML,"Python, Keras, Matplotlib",2024,Ongoing,2,Dr. Nair
+Fraud Detection System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Ongoing,2,Prof. Sunny Mohite
+Road Sign Recognition System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,3,Prof. Verma
+Spam Email Classifier 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Jitkar
+AI Chatbot using NLP 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Dr. Kapil Kadam
+Customer Churn Prediction 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,2,Dr. Khan
+Sign Language Translator 2024,AI/ML,"Python, OpenCV, YOLO",2024,Completed,3,Dr.K.T.Mane
+Drowsiness Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,3,Prof. Verma
+Air Quality Prediction Model 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Prof. Jitkar
+Sign Language Translator 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Sunny Mohite
+Road Sign Recognition System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,3,Dr. Kapil Kadam
+Sign Language Translator 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,4,Prof. Verma
+Air Quality Prediction Model 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,2,Prof. Verma
+Hand Gesture Recognition 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,1,Dr. Joshi
+Customer Churn Prediction 2024,AI/ML,"Python, PyTorch, NumPy",2024,Abandoned,2,Prof. Sunny Mohite
+Road Sign Recognition System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,2,Prof. Radhika Dhanal
+Sign Language Translator 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,2,Dr. Nair
+Hand Gesture Recognition 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,3,Dr. Nair
+Real-time Object Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Abandoned,4,Dr. Nair
+Hand Gesture Recognition 2024,AI/ML,"Python, OpenCV, YOLO",2024,Completed,3,Dr. Khan
+Road Sign Recognition System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,5,Prof. Verma
+Sentiment Analysis of Reviews 2024,AI/ML,"Python, PyTorch, NumPy",2024,Abandoned,4,Dr.K.T.Mane
+Resume Screening using AI 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,4,Prof. Sunny Mohite
+Real-time Object Detection System 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,2,Prof. Jitkar
+Drowsiness Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,2,Prof. Jitkar
+Spam Email Classifier 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,4,Prof. Radhika Dhanal
+Spam Email Classifier 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,3,Dr. Khan
+Sign Language Translator 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,1,Prof. Radhika Dhanal
+Sign Language Translator 2024,AI/ML,"Python, Keras, Matplotlib",2024,Ongoing,3,Prof. Radhika Dhanal
+Customer Churn Prediction 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Sunny Mohite
+Drowsiness Detection System 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Prof. Verma
+Fraud Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,3,Dr. Khan
+Student Performance Prediction System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,4,Dr. Joshi
+Crop Disease Detection using CNN 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Abandoned,2,Dr. Joshi
+Crop Disease Detection using CNN 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Dr. Kapil Kadam
+Road Sign Recognition System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Abandoned,4,Prof. Radhika Dhanal
+Hand Gesture Recognition 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,3,Dr. Kapil Kadam
+Student Performance Prediction System 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Sunny Mohite
+Brain Tumor Detection using MRI 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,2,Prof. Sunny Mohite
+Drowsiness Detection System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,2,Dr. Joshi
+Crop Disease Detection using CNN 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Ongoing,4,Prof. Jitkar
+Real-time Object Detection System 2024,AI/ML,"Python, BERT, HuggingFace",2024,Completed,3,Prof. Radhika Dhanal
+Sentiment Analysis of Reviews 2024,AI/ML,"Python, Scikit-learn, Flask",2024,Completed,2,Prof. Jitkar
+Real-time Object Detection System 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,2,Prof. Verma
+Fraud Detection System 2024,AI/ML,"Python, TensorFlow, Pandas",2024,Completed,2,Dr. Khan
+Medical Image Classification 2024,AI/ML,"Python, Keras, Matplotlib",2024,Abandoned,5,Dr. Nair
+Sign Language Translator 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,2,Prof. Radhika Dhanal
+Fraud Detection System 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,5,Dr. Khan
+Real-time Object Detection System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,2,Prof. Verma
+Loan Default Prediction 2024,AI/ML,"Python, OpenCV, YOLO",2024,Abandoned,2,Dr.K.T.Mane
+Road Sign Recognition System 2024,AI/ML,"Python, PyTorch, NumPy",2024,Completed,3,Prof. Jitkar
+Road Sign Recognition System 2024,AI/ML,"Python, Keras, Matplotlib",2024,Completed,4,Prof. Sunny Mohite
+Placement Management Portal 2024,Web Dev,"Next.js, Tailwind, Firebase",2024,Completed,3,Dr. Nair
+College ERP System 2024,Web Dev,"Angular, Spring Boot, MySQL",2024,Abandoned,1,Dr. Khan
+Blood Bank Management System 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,4,Dr. Nair
+Hospital Appointment System 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,2,Dr. Joshi
+Online Voting System 2024,Web Dev,"React, Node.js, MongoDB",2024,Completed,2,Dr. Pardesi
+Job Portal with AI Matching 2024,Web Dev,"React, Node.js, MongoDB",2024,Abandoned,5,Prof. Jitkar
+Online Food Ordering System 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,3,Prof. Jitkar
+Hospital Appointment System 2024,Web Dev,"Next.js, Tailwind, Firebase",2024,Completed,3,Dr. Nair
+Online Examination Portal 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,2,Prof. Sunny Mohite
+Online Voting System 2024,Web Dev,"React, Express, MySQL",2024,Completed,3,Prof. Radhika Dhanal
+Social Media Dashboard 2024,Web Dev,"Next.js, Tailwind, Firebase",2024,Abandoned,4,Dr.K.T.Mane
+Job Portal with AI Matching 2024,Web Dev,"React, Node.js, MongoDB",2024,Abandoned,2,Dr. Nair
+Event Management Platform 2024,Web Dev,"React, Node.js, MongoDB",2024,Completed,3,Dr. Kapil Kadam
+College ERP System 2024,Web Dev,"React, Node.js, MongoDB",2024,Ongoing,3,Dr. Kapil Kadam
+Placement Management Portal 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,4,Dr. Pardesi
+Online Examination Portal 2024,Web Dev,"Vue.js, Django, MySQL",2024,Completed,4,Dr. Pardesi
+Student Grievance System 2024,Web Dev,"React, Node.js, MongoDB",2024,Abandoned,1,Prof. Jitkar
+Social Media Dashboard 2024,Web Dev,"Angular, Spring Boot, MySQL",2024,Completed,3,Dr. Nair
+Precision Agriculture Monitoring 2024,IoT,"ESP32, MicroPython, MQTT",2024,Completed,3,Dr. Joshi
+Vehicle Tracking System 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Completed,2,Prof. Radhika Dhanal
+Vehicle Tracking System 2024,IoT,"Arduino, Python, MQTT",2024,Completed,3,Dr.K.T.Mane
+Smart Home Automation System 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Completed,3,Dr. Kapil Kadam
+Smart Parking System 2024,IoT,"Arduino, Python, MQTT",2024,Completed,5,Prof. Jitkar
+Health Monitoring Wearable 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,5,Dr. Khan
+Smart Irrigation System 2024,IoT,"Arduino, Python, MQTT",2024,Completed,2,Dr.K.T.Mane
+Smart Parking System 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Abandoned,5,Prof. Jitkar
+Precision Agriculture Monitoring 2024,IoT,"ESP32, MicroPython, MQTT",2024,Abandoned,4,Dr. Pardesi
+Industrial Equipment Monitor 2024,IoT,"Arduino, Python, MQTT",2024,Completed,1,Prof. Sunny Mohite
+Smart Irrigation System 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Abandoned,3,Prof. Sunny Mohite
+Waste Management System 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,3,Prof. Sunny Mohite
+Smart Street Light Control 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Completed,5,Dr.K.T.Mane
+Health Monitoring Wearable 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,4,Dr.K.T.Mane
+Industrial Equipment Monitor 2024,IoT,"Arduino, Python, MQTT",2024,Abandoned,3,Dr. Pardesi
+Precision Agriculture Monitoring 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Completed,2,Dr. Joshi
+Smart Home Automation System 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Ongoing,2,Prof. Sunny Mohite
+Smart Street Light Control 2024,IoT,"ESP32, MicroPython, MQTT",2024,Ongoing,3,Prof. Radhika Dhanal
+Vehicle Tracking System 2024,IoT,"Arduino, Python, MQTT",2024,Completed,3,Prof. Jitkar
+Precision Agriculture Monitoring 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,3,Dr. Kapil Kadam
+Health Monitoring Wearable 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,2,Prof. Jitkar
+Industrial Equipment Monitor 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,2,Prof. Sunny Mohite
+Smart Parking System 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,2,Dr. Joshi
+Waste Management System 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,3,Prof. Sunny Mohite
+Waste Management System 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,4,Prof. Radhika Dhanal
+Smart Parking System 2024,IoT,"Arduino, C++, Bluetooth",2024,Abandoned,3,Dr.K.T.Mane
+Health Monitoring Wearable 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,3,Dr. Khan
+Smart Energy Meter 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,2,Dr. Kapil Kadam
+Smart Home Automation System 2024,IoT,"ESP32, MicroPython, MQTT",2024,Abandoned,3,Prof. Verma
+Health Monitoring Wearable 2024,IoT,"Arduino, Python, MQTT",2024,Completed,4,Dr. Kapil Kadam
+Precision Agriculture Monitoring 2024,IoT,"Arduino, Python, MQTT",2024,Completed,4,Prof. Sunny Mohite
+Smart Parking System 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Abandoned,3,Prof. Radhika Dhanal
+Vehicle Tracking System 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,4,Dr.K.T.Mane
+Precision Agriculture Monitoring 2024,IoT,"Raspberry Pi, Python, Firebase",2024,Abandoned,3,Dr. Kapil Kadam
+Precision Agriculture Monitoring 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,5,Dr.K.T.Mane
+Smart Parking System 2024,IoT,"Raspberry Pi, OpenCV, Python",2024,Completed,3,Dr. Joshi
+Smart Home Automation System 2024,IoT,"ESP32, MicroPython, MQTT",2024,Ongoing,2,Prof. Sunny Mohite
+Smart Parking System 2024,IoT,"Arduino, C++, Bluetooth",2024,Completed,4,Dr.K.T.Mane
+Vulnerability Scanner Tool 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Completed,4,Dr. Joshi
+Network Intrusion Detection System 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Completed,2,Prof. Sunny Mohite
+Vulnerability Scanner Tool 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Abandoned,4,Dr. Khan
+Digital Forensics Framework 2024,Cybersecurity,"Python, Snort, Wireshark",2024,Completed,3,Dr. Khan
+Steganography Tool 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Completed,2,Prof. Sunny Mohite
+Network Intrusion Detection System 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Completed,5,Prof. Verma
+Firewall Rule Optimizer 2024,Cybersecurity,"Python, Nmap, Kali Linux",2024,Abandoned,2,Prof. Sunny Mohite
+Malware Analysis System 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Abandoned,5,Dr. Nair
+Steganography Tool 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Abandoned,5,Dr. Kapil Kadam
+Phishing Website Detector 2024,Cybersecurity,"Python, Nmap, Kali Linux",2024,Completed,4,Dr. Khan
+Network Intrusion Detection System 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Abandoned,3,Dr. Nair
+Vulnerability Scanner Tool 2024,Cybersecurity,"Python, Snort, Wireshark",2024,Completed,2,Dr.K.T.Mane
+Password Strength Analyzer 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Completed,2,Prof. Verma
+Digital Forensics Framework 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Completed,3,Dr. Kapil Kadam
+Firewall Rule Optimizer 2024,Cybersecurity,"Python, Nmap, Kali Linux",2024,Abandoned,4,Dr. Khan
+Network Intrusion Detection System 2024,Cybersecurity,"Python, Wireshark, Metasploit",2024,Completed,3,Dr. Kapil Kadam
+Password Strength Analyzer 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Abandoned,3,Prof. Jitkar
+Password Strength Analyzer 2024,Cybersecurity,"Python, Scapy, Burp Suite",2024,Completed,2,Dr. Kapil Kadam
+Ride Sharing Application 2024,Mobile,"Swift, iOS, CoreData",2024,Completed,2,Prof. Verma
+E-Learning Mobile Platform 2024,Mobile,"React Native, Node.js, MongoDB",2024,Ongoing,4,Prof. Jitkar
+Event Management Mobile App 2024,Mobile,"Android, Java, SQLite",2024,Completed,3,Dr. Nair
+Ride Sharing Application 2024,Mobile,"Flutter, Dart, Firebase",2024,Completed,2,Dr. Nair
+Fitness Tracker Application 2024,Mobile,"Flutter, Dart, Firebase",2024,Abandoned,2,Prof. Radhika Dhanal
+Fitness Tracker Application 2024,Mobile,"Android, Java, SQLite",2024,Abandoned,2,Prof. Radhika Dhanal
+E-Learning Mobile Platform 2024,Mobile,"Swift, iOS, CoreData",2024,Completed,2,Prof. Radhika Dhanal
+E-Learning Mobile Platform 2024,Mobile,"Android, Java, SQLite",2024,Abandoned,3,Dr.K.T.Mane
+Smart Contract Audit Tool 2024,Blockchain,"Solidity, Hardhat, Web3.js",2024,Abandoned,5,Prof. Jitkar
+Smart Contract Audit Tool 2024,Blockchain,"Solidity, Hardhat, Web3.js",2024,Completed,3,Dr. Joshi
+Decentralized Finance App 2024,Blockchain,"Python, Web3.py, Ethereum",2024,Abandoned,2,Dr. Joshi
+Serverless REST API System 2024,Cloud,"AWS, Python, Docker",2024,Completed,2,Prof. Radhika Dhanal
+Serverless REST API System 2024,Cloud,"Azure, Kubernetes, Terraform",2024,Completed,3,Prof. Radhika Dhanal
+Microservices Architecture Demo 2024,Cloud,"AWS, Python, Docker",2024,Completed,5,Dr. Joshi
+Serverless REST API System 2024,Cloud,"Azure, Kubernetes, Terraform",2024,Abandoned,2,Prof. Jitkar
+Auto-scaling Web Application,Cloud,"AWS, Python, Docker",2024,Completed,2,Prof. Sunny Mohite
+Multi-cloud Storage Manager 2024,Cloud,"GCP, Python, Pub/Sub",2024,Completed,5,Prof. Verma
+AR Product Visualizer,AR/VR,"Unity, Vuforia, C#",2024,Completed,2,Dr.K.T.Mane
+Virtual Lab Simulation 2024,AR/VR,"Unity, Vuforia, C#",2024,Completed,3,Dr.K.T.Mane
