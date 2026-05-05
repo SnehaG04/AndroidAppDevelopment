@@ -33,11 +33,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MyApplication22/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication22/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication22/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication22/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication22/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication22/gradle/libs.versions.toml" afterDir="false" />
-    </list>
+    <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=C:\Users\HP\.android\avd\Medium_Phone.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=C:\Users\HP\.android\avd\Pixel_9_Pro_XL.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
